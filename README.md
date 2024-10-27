@@ -1,10 +1,8 @@
 # About Me:
-Hello this is my github account for personal projects. I'm currently focusing on learning C++ and making minigames with SFML.
+I'm a high school student interested in game development, currently working on a game engine template using C++ and SFML. Right now, my focus is on creating a robust framework that supports various game mechanics. I aim to improve my skills in game development and software engineering, and I'm open to collaboration and exploring new technologies.
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Feel free to check out my repositories or get in touch.
 
 # GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kingkururu&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingkururu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
